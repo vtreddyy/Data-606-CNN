@@ -1,0 +1,13 @@
+PIL
+os
+shutil
+random
+re
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+cv2
+flask
