@@ -5,10 +5,10 @@ import os
 size = (256, 256)
 
 # Set the path to the folder containing the categories
-categories_path = "C:/Users/Tarun Reddy/Desktop/data 606 Final project/catagories"
+categories_path = "/PATH"
 
 # Set the path to the output folder
-output_folder_path = "C:/Users/Tarun Reddy/Desktop/data 606 Final project/processed_images"
+output_folder_path = "/PATH"
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(output_folder_path):
